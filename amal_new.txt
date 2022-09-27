@@ -3,5 +3,5 @@ amal file.
 hello fly2sub.
 fly2sub
 
-
-This is from pc edit.
+REMOTE
+This is from remote edit.
