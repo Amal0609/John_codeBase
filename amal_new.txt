@@ -1,4 +1,4 @@
-FLYHIGH
+FLY2SUB
 amal file.
-hello flyhigh.
-flyhigh
+hello fly2sub.
+fly2sub
